@@ -1,0 +1,28 @@
+streamlit==1.19.0
+scikit-learn==1.2.0
+numpy==1.23.5
+pandas==1.5.3
+matplotlib==3.6.2       
+seaborn==0.11.2                  
+statsmodels==0.13.2     
+scipy==1.9.3            
+joblib==1.2.0           
+xgboost==1.7.2                      
+matplotlib-inline==0.1  
+jupyter==1.0.0          
+ipykernel==6.17.1   
+
+
+
+Deployment
+
+Install Streamlit Directly:
+
+pip install streamlit
+
+cd /path/to/your/project
+
+streamlit run streamlit_app.py
+
+Start a local development server.
+Open the app in your default web browser (usually at http://localhost:8501).
